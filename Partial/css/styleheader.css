@@ -1,0 +1,50 @@
+.Container1{
+    width: 100%;
+    height: 70px;
+    border-bottom :1px solid black;
+   
+    border-right:1px solid black;
+}
+.float{
+    float: left;
+    box-sizing: border-box;
+}
+.Box12{
+margin-top:2px;
+width: 80%;
+height: 70px;
+border-right:1px solid black;
+}
+.Box21{
+margin-top:30px;
+ width:20%;
+ height: 70px;
+
+}
+.heading{
+font-size: 30px;
+color:black;
+}
+.member{
+ font-size: 20px;
+ color:rgb(54, 54, 54);
+}
+.title{
+ padding:25px 40px;
+ text-decoration: none;
+
+}
+.ul{
+ list-style-type: none;
+ margin:0;
+ padding:0;
+}
+.li{
+ display: inline;
+}
+.space{
+ padding:30px;
+}
+.color{
+    background-color: lightgreen;
+}

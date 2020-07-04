@@ -1,0 +1,47 @@
+.container{
+    width: 100%;
+
+}
+.div1{
+    width: 100%;
+    height:700px;
+ 
+}
+.float{
+   float: left;
+}
+.div12{
+   width: 50%;
+}
+.div2{
+
+     height: 300px;
+     width: 100%;
+
+}
+.text-size2{
+font-size: 20px;
+}
+
+.text-size1{
+font-size: 70px;
+}
+.div3{
+width: 80%;
+height: 100%;
+
+margin-left: 150px;
+}
+.div{
+height: 600px;
+}
+.div123{
+margin:150px;
+}
+.div-hello{
+height: 300px;
+}
+.padding{
+
+padding: 30px;
+}
